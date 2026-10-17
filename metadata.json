@@ -1,0 +1,6 @@
+{
+  "name": "PNC<3",
+  "description": "A private, ultra-minimal app for two people with a shared companion cat, messaging, calls, memories, and collaborative doodles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
